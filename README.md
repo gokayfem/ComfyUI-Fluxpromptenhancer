@@ -1,3 +1,9 @@
+# [DualView](https://dualview.ai)
+
+| Tool | Description |
+|------|-------------|
+| [DualView](https://dualview.ai) | Free side-by-side comparison tool for images, videos, and AI prompts |
+
 # Flux Prompt Enhance Node for ComfyUI
 
 This custom node for ComfyUI integrates the Flux-Prompt-Enhance model, allowing you to enhance your prompts directly within your ComfyUI workflows.
